@@ -4,6 +4,7 @@ A comprehensive collection of MATLAB scripts, functions, and simulations develop
 
 This repository serves as a digital portfolio demonstrating practical applications of mathematical theories, numerical methods, and computational problem-solving using MATLAB.
 
+This repository is for matlab usage in only mathematics other usage tools of matlab will be in their respective repositiories 
 ---
 
 ## 📌 Overview & Academic Journey
